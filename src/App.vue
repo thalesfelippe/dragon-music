@@ -242,7 +242,7 @@ button:hover {
   color: #FFF;
   background-image: linear-gradient(to right, #BA1B1D, #F71735);
   border-radius: 20px;
-  width: 70%;
+  width: 75%;
   margin: 0 auto;
 }
 </style>
